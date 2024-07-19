@@ -60,5 +60,4 @@ jobs:
         with:
           app-name: 'APPJAVA-tp-julian'
           slot-name: 'Production'
-          package: 'java-app'
           
